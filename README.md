@@ -1,1 +1,1 @@
-# JAVA-SCRIPT
+# BASIC-javascript
